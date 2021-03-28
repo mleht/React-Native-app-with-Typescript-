@@ -1,0 +1,5 @@
+- Connects to the Northwind SQL database (needs backend api)
+- Create, Read, Update and Delete Operations
+- Typicode fetch
+- Yle teletext pages as images from Yle Api (needs personal API keys from Yle)
+- React Hooks
